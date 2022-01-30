@@ -1,0 +1,3 @@
+[submodule "tutorial-list-frontend"]
+	path = tutorial-list-frontend
+	url = https://github.com/Piyush4298/tutorial-list-frontend.git
